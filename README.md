@@ -4,7 +4,7 @@ I build reliable developer tools using modern .NET technologies - from terminal 
 
 ## Projects
 
-[TableTower](https://github.com/AhmadovMahammad/.net-table) - A powerful and flexible .NET library to build and render beautiful console tables with themes, pagination, and customization.  
+[.NET Table](https://github.com/AhmadovMahammad/.net-table) - A powerful and flexible .NET library to build and render beautiful console tables with themes, pagination, and customization.  
 [![NuGet Downloads](https://img.shields.io/nuget/dt/TableTower.Core.svg)](https://www.nuget.org/packages/TableTower.Core) [![NuGet Version](https://img.shields.io/nuget/v/TableTower.Core.svg)](https://www.nuget.org/packages/TableTower.Core)
 
 [Instagram Data Manager](https://github.com/AhmadovMahammad/instagram-data-manager) - Automation framework for Instagram tasks including file operations and Selenium-driven browser automation supporting Firefox Developer Edition.
