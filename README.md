@@ -1,5 +1,3 @@
-# Mahammad Ahmadov
-
 I specialize in building **console applications**, **automation tools**, and **web solutions** using .NET technologies. Passionate about creating developer tools that solve real-world problems.
 
 ## Featured Projects
